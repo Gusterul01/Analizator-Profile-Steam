@@ -66,7 +66,9 @@ Analiza_Profilului_Steam/
    ```
 
 4. **Configureaza cheia API de la Steam**
+
    Obține o cheie de la https://steamcommunity.com/dev/apikey
+
    În fișierul app.py, înlocuiește valoarea pentru STEAM_API_KEY cu cheia ta reală obținută de pe site-ul Steam API.
 
 6. **Porneste aplicatia**
